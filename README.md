@@ -22,4 +22,4 @@ Cada tipo de gráfico é acompanhado por um script R correspondente e imagens ex
 - **Violin_Plots/**: Exemplos e scripts para gráficos de violino.
 - **Interactive_Plots/**: Exemplos e scripts para gráficos interativos.
 
-Sinta-se à vontade para explorar, adaptar e contribuir com novos exemplos e melhorias!
+Sinta-se à vontade para explorar!
