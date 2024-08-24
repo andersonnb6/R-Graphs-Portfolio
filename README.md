@@ -1,4 +1,4 @@
-## R_Graphs_Portfolio
+## R-Graphs-Portfolio
 
 Este repositório contém uma coleção de exemplos de gráficos criados com a linguagem de programação R. É projetado para demonstrar uma variedade de técnicas de visualização de dados, abrangendo diversos tipos de gráficos, incluindo:
 
