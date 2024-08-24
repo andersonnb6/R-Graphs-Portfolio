@@ -8,9 +8,8 @@ Este repositório contém uma coleção de exemplos de gráficos criados com a l
 - **Mapas de Calor**: Revele padrões e intensidade de dados em matrizes.
 - **Gráficos de Caixa**: Compare distribuições de dados em diferentes categorias.
 - **Gráficos de Violino**: Mostre a distribuição e densidade dos dados.
-- **Gráficos Interativos**: Explore visualizações dinâmicas usando ferramentas como `plotly`.
 
-Cada tipo de gráfico é acompanhado por um script R correspondente e imagens exportadas em formato PNG e PDF, oferecendo exemplos claros e bem documentados para referência e aprendizado.
+Cada tipo de gráfico é acompanhado por um script R correspondente e imagens exportadas em formato PNG, oferecendo exemplos claros e bem documentados para referência e aprendizado.
 
 ### Estrutura do Repositório
 
