@@ -1,24 +1,14 @@
 ## R-Graphs-Portfolio
 
-Este repositório contém uma coleção de exemplos de gráficos criados com a linguagem de programação R. É projetado para demonstrar uma variedade de técnicas de visualização de dados, abrangendo diversos tipos de gráficos, incluindo:
-
-- **Gráficos de Barras**: Visualize a distribuição de dados categóricos.
-- **Gráficos de Dispersão**: Explore a relação entre duas variáveis contínuas.
-- **Gráficos de Linhas**: Analise tendências ao longo do tempo.
-- **Mapas de Calor**: Revele padrões e intensidade de dados em matrizes.
-- **Gráficos de Caixa**: Compare distribuições de dados em diferentes categorias.
-- **Gráficos de Violino**: Mostre a distribuição e densidade dos dados.
-
-Cada tipo de gráfico é acompanhado por um script R correspondente e imagens exportadas em formato PNG, oferecendo exemplos claros e bem documentados para referência e aprendizado.
+Este repositório oferece uma seleção de gráficos criados com a linguagem de programação R, utilizando desde o R base até pacotes como ggplot2 e plotly. Além de refletir um pouco da minha experiência em análise e visualização de dados com R, este repositório tem por objetivo fornecer uma referência prática para consulta rápida na construção de diversos tipos de gráficos em linguagem R.  
 
 ### Estrutura do Repositório
 
-- **Bar_Plots/**: Exemplos e scripts para gráficos de barras.
-- **Scatter_Plots/**: Exemplos e scripts para gráficos de dispersão.
-- **Line_Plots/**: Exemplos e scripts para gráficos de linhas.
-- **Heatmaps/**: Exemplos e scripts para mapas de calor.
-- **Box_Plots/**: Exemplos e scripts para gráficos de caixa.
-- **Violin_Plots/**: Exemplos e scripts para gráficos de violino.
-- **Interactive_Plots/**: Exemplos e scripts para gráficos interativos.
+A organização dos diretórios é feita de acordo com o pacote utilizado para a construção dos gráficos, como pode ser visto abaixo:  
+
+- **r_base/**: Gráficos construídos com o r base.
+- **ggplot2/**: Gráficos construídos com o pacote ggplot2.
+
+Cada gráfico é acompanhado por um script R correspondente. Os gráficos têm a extensão **.png**, enquanto os scripts R têm a extensão **.R**. Ambos possuem o mesmo nome, com a única diferença sendo a extensão do arquivo.
 
 Sinta-se à vontade para explorar!
